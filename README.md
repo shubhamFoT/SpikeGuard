@@ -48,4 +48,3 @@ SpikeGuard is a 2-wire, 4–20 mA loop-powered, tacholess neuromorphic bearing-h
 * **IP67 Ingress & IEC 61000-4:** Viton O-ring sealed cylindrical aluminum housing and M12 connector rated against shop-floor coolants and Level 3/4 EMC surges.
 
 ---
-*Audited and verified at the Department of Electronics & Communication Engineering (VLSI), Faculty of Technology, University of Delhi.*
