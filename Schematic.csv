@@ -1,0 +1,11 @@
+Reference Designators;Quantity;Description;Package;Value;Manufacturer;Manufacturer Part Number;Vendor;Vendor Part Number;Top/Bottom;
+C1, C2;2;Capacitor - ANSI;CAPC1005X60;100uF_Tant;;;;;-;
+C3;1;Capacitor - ANSI;CAPC1005X60;1uF_Decouple;;;;;-;
+J1_M12_LOOP;1;Pin Header;1X04;PINHD-1X4;;;;;-;
+R1, R2;2;Resistor Fixed - ANSI;RESC1005X40;100k_Hyst;;;;;-;
+R3, R4;2;Resistor Fixed - ANSI;RESC1005X40;10k_0.1%;;;;;-;
+U1_AD5421_REG;1;555 General purpose precision timers;DIP826W53P254L959H508Q8B;4-20mA_Loop_DAC;Renesas Electronics Corporation;ICM7555IPAZ;;;-;
+U2_ADXL1002_MEMS;1;Pin Header;1X04;50g_21kHz_MEMS;;;;;-;
+U3_TLV9042_BPF;1;Dual Operational Amplifier;SOIC127P600X175-8N;SallenKey_BPF;;;;;-;
+U4_TLV3691_COMP;1;Dual Operational Amplifier;SOIC127P600X175-8N;Async_Delta_Mod;;;;;-;
+U5_GOWIN_FPGA;1;555 General purpose precision timers;DIP826W53P254L959H508Q8B;GW1NR9_SNN_Core;Renesas Electronics Corporation;ICM7555IPAZ;;;-;
