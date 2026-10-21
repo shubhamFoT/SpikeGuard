@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and backup files
+*.bak
+*~
+*.swp
+.vscode/
+.idea/
+
+# Fusion / EAGLE-style autosave and backup files
+*.s#*
+*.b#*
+*.l#*
+*.lck
+
+# Python and Node tooling (simulation, scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+
+# FPGA and simulation build output
+build/
+*.vcd
+*.log
